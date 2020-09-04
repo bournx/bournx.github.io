@@ -23,7 +23,7 @@ And it looks a little something like this!
 
 ![Longboard](https://i.imgur.com/JDlcyTo.jpeg)
 
-Now for a link to my PC! (dw, I'll just put my [PC Part Picker List here](https://pcpartpicker.com/user/Raibyo/saved/J49t8d)) :D
+Now for a link to my PC! (dw, I'll just put my [PC Part Picker List here](https://pcpartpicker.com/user/Raibyo/saved/#view=kDGjZL) :D
 
 Aaaaaaaaaaaaand, here is my PC!
 
