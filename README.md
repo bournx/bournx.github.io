@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Hiya Folks~!
 
-You can use the [editor on GitHub](https://github.com/bournx/bournx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Nico Bour and I am a 20 year old computer nerd with a knack for falling! You can often find me longboarding around JMU and on the rare occasion, you will find me lying on my back in pain due to a poor decision while riding! If you could not tell already, I am **Incredibly** sarcastic and love to crack jokes! My hobbies include playing computer games and fixing computers. I will leave links at the end of the page if you are curious in the longboard that I ride or the specs of my computer that I just built! Don't even get me started on the new 3000 series of GPUs _(if you know what I am talking about)_. If I knew they would be **that** cheap, I would've waited :3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Hobbies and Other Info** 
+A couple of my favorite games to play are League of Legends and Valorant (since it came out) and my favorite character is Ekko. He has one of my all time favorite quotes that goes:
+>**"Here's the thing about time: If you can't make the most out of any given moment, then you don't deserve a single extra second.**"
 
-### Markdown
+As you could probably guess, his character design revolves around his ability to rewind time, which is very cool in my opinion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Alt Text](https://media.giphy.com/media/jsCGjwUethhiGPgptL/giphy.gif)
 
-```markdown
-Syntax highlighted code block
+### Links to My Cool Stuff :D
 
-# Header 1
-## Header 2
-### Header 3
+Here is a list of all the neat things I put together to make my favorite longboard! 
 
-- Bulleted
-- List
+* [Shark Wheels](https://sharkwheel.com/)
+* [SIDEWINDER II LONGBOARD TRUCKS](https://www.tactics.com/gullwing/sidewinder-ii-longboard-trucks)
+* [Sector 9 Sidewinder Series](https://www.sector9.com/collections/sidewinder-series)
+* And I don't wear a helmet or gear because it's a **huge** pain :)
 
-1. Numbered
-2. List
+And it looks a little something like this!
 
-**Bold** and _Italic_ and `Code` text
+![Longboard](https://i.imgur.com/JDlcyTo.jpeg)
 
-[Link](url) and ![Image](src)
-```
+Now for a link to my PC! (dw, I'll just put my [PC Part Picker List here](https://pcpartpicker.com/user/Raibyo/saved/J49t8d)) :D
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Aaaaaaaaaaaaand, here is my PC!
 
-### Jekyll Themes
+![Alt Text](https://media.giphy.com/media/JTECfmOwFnCrkGU4YB/giphy.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bournx/bournx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you made it all the way to the end, thank you for stopping by! And you will probably see me around, either on a board on on the ground :)
