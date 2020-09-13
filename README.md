@@ -29,4 +29,13 @@ Aaaaaaaaaaaaand, here is my PC!
 
 ![Alt Text](https://media.giphy.com/media/JTECfmOwFnCrkGU4YB/giphy.gif)
 
+### **Personal Learning Plan!!**
+
+* Code everyday! Even for a little bit. It can be fun, but I also want to be consistent and not burn myself out.
+* Maintain my focus on school and learning, instead of just rushing through work.
+* Keep track of all my assignments and projects. Going home is nice, but difficult to stay on track.
+* Manage my time wisely to help me finish and control my work.
+* Work with my team more to learn how to collaborate effectively
+* Work Smarter, not harder.
+
 If you made it all the way to the end, thank you for stopping by! And you will probably see me around, either on a board on on the ground :)
